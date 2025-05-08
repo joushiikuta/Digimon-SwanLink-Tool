@@ -35,3 +35,15 @@ SwanLink punching bag for D-Ark(2001).
 Versus Wonderswan Impmon from Digimon Tamers Battle Spirit.
 
 Not 100% winning!
+
+## SwanLink_Adapter_Gerber.zip
+ 
+<img src="SwanLink_Adapter.png" width="640" height="360">
+
+ Gerber file for SwanLink Adapter PCB.
+ 
+ PCB thickness: 1.6mm
+ 
+ HDMI Male Connector 19Pin
+
+ 2.54mm Pin Header
