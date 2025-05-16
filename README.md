@@ -10,9 +10,9 @@ An approach to get ultimate Digimon on D-3 or unlock Secret Area-S on D-Ark with
 
 <img src="schematic.png" width="640" height="360">
 
-GPIO_NUM_17 → HDMI PIN9
-
 GPIO_NUM_16 → HDMI PIN13
+
+GPIO_NUM_17 → HDMI PIN9
 
 GND → HDMI PIN17
 
@@ -35,6 +35,21 @@ SwanLink punching bag for D-Ark(2001).
 Versus Wonderswan Impmon from Digimon Tamers Battle Spirit.
 
 Not 100% winning!
+
+## ESP32_SwanLink_Tool.ino
+
+<img src="ESP32_SwanLink_Tool.png" width="640" height="640">
+
+2 in 1 SwanLink Tool.
+
+Need to add a switch between GPIO_NUM_15 and GND.
+
+GPIO_NUM_15 → SWITCH → GND
+
+Switch ON : D-Ark SwanLink Punching
+
+Switch OFF: D-3 SwanLink Jogress Evolution
+
 
 ## SwanLink_Adapter_Gerber.zip
  
